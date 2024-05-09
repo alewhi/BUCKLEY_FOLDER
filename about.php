@@ -47,6 +47,9 @@ include("boostrap.php");
         <div class="slide fade">
             <img src="img/BELLES.jpg" style="width:80%">
         </div>
+        <div class="slide fade">
+            <img src="img/BELLES.jpg" style="width:80%">
+        </div>
     </div>
 </div>
 
